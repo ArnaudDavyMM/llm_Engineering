@@ -186,3 +186,5 @@ week4/simple
 llm_env/
 env.yml
 env.yml
+.gitignore
+env.yml
